@@ -1,2 +1,2 @@
 - Java 8
-- IntelliJ iDea Community Edition
+- IntelliJ Idea Community Edition
